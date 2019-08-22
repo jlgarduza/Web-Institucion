@@ -1,2 +1,4 @@
 # Web-Institucion
-Plantilla Web para sitio web de institución escolar
+Plantilla Web para institución escolar
+
+Realizado con PHP, Bootstrap, HTML.
